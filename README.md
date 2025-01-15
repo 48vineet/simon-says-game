@@ -16,7 +16,7 @@ A fun and interactive memory game built with **HTML**, **CSS**, and **JavaScript
 ![Simon Says Game Preview !](https://github.com/user-attachments/assets/9abcf02b-d848-4215-b2f0-f1993262b5c7)
 
 
-
+ 
 ---
 
 ## 📖 How to Play
