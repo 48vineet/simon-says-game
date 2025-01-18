@@ -13,7 +13,7 @@ document.addEventListener("keypress", function () {
     console.log("game has started");
     started = true;
     levelUp();
-  }
+  } 
 });
  
 function gameFlash(btn) {
